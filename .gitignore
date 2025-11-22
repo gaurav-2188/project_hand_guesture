@@ -1,0 +1,12 @@
+# Ignore Data Files (Too large for GitHub)
+*.csv
+*.zip
+data/
+
+# Ignore Colab and Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
